@@ -1,4 +1,17 @@
-# Flutter ML KIt Implementation
+# Flutter ML Kit Implementation
+
+
+
+## Screenshot
+
+
+![](https://i.imgur.com/8zwHi2i.jpg)
+
+
+
+
+![](https://i.imgur.com/yZRp22K.jpg)
+
 
 
 For help getting started with Flutter, view our
